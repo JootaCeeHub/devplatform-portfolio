@@ -93,7 +93,7 @@ El proyecto sigue una estructura React orientada a features:
 git clone <YOUR_REPOSITORY_URL>
 
 # 2) Entrar al directorio
-cd IDLEIA
+cd devplatform-portfolio
 
 # 3) Instalar dependencias
 npm install
